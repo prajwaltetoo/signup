@@ -1,0 +1,20 @@
+
+  .buttons button {
+  color: antiquewhite;
+  background-color: black;
+    
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .success {
+    color: green;
+  }
+  
+  input{
+    border: 2px solid black;
+
+  }
+
